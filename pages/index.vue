@@ -14,10 +14,9 @@
           <div class="flex flex-col">
             <div class="text-4xl font-poppins text-gray-800">
               <span class="font-thin">welcome to</span>
-              <span class="font-bold">testing yeet page</span>
-              <span class="">.</span>
+              <span class="font-bold">testing yeet page.</span>
             </div>
-            <div class="font-thin text-gray-700 text-left -mt-4">
+            <div class="font-thin text-gray-700 text-left mt-5">
               founder of yeet | yeet until niama also cannot recognize |
               yeeeeeeeeeeet
             </div>
