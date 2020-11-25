@@ -16,7 +16,7 @@
               <span class="font-thin">welcome to</span>
               <span class="font-bold">testing yeet page.</span>
             </div>
-            <div class="font-thin text-gray-700 text-left mt-5">
+            <div class="font-thin text-gray-700 text-left mt-2">
               founder of yeet | yeet until niama also cannot recognize |
               yeeeeeeeeeeet
             </div>
