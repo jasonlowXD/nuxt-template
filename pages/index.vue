@@ -15,7 +15,7 @@
             <div class="text-4xl font-poppins text-gray-800">
               <span class="font-thin">welcome to</span>
               <span class="font-bold">testing yeet page</span>
-              <span class="text-6xl">.</span>
+              <span class="">.</span>
             </div>
             <div class="font-thin text-gray-700 text-left -mt-4">
               founder of yeet | yeet until niama also cannot recognize |
