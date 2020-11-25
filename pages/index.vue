@@ -1,7 +1,7 @@
 <template>
   <div class="bg-grayish-white-1 relative">
     <!-- display bg image -->
-    <div class="h-screen w-2/3">
+    <div class="h-screen w-3/4">
       <img
         class="w-full h-full object-cover"
         src="https://images.pexels.com/photos/331684/pexels-photo-331684.jpeg?cs=srgb&dl=pexels-math-331684.jpg&fm=jpg"
@@ -14,8 +14,8 @@
           <div class="flex flex-col">
             <div class="text-4xl font-poppins text-gray-800">
               <span class="font-thin">welcome to</span>
-              <span class="font-bold">yeet page</span>
-              <span class="text-6xl text-lead-yellow">.</span>
+              <span class="font-bold">testing yeet page</span>
+              <span class="text-6xl">.</span>
             </div>
             <div class="font-thin text-gray-700 text-left -mt-4">
               founder of yeet | yeet until niama also cannot recognize |
